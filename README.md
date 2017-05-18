@@ -1,4 +1,4 @@
-<h1 align="center">reactbkk-2.0.0</h1>
+<h2 align="center">reactbkk-2.0.0</h2>
 
 <p align="center">React Bangkok 2.0.0 website</p>
 
